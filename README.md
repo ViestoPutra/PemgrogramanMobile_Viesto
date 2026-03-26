@@ -36,13 +36,16 @@ CampusInfo adalah aplikasi Android yang menyediakan informasi seputar kampus Uni
 
 ## Screenshot Aplikasi
 1. **Beranda & Filter:** ![Beranda]
-   <img width="300" height="1596" alt="Screenshot 2026-03-26 221039" src="https://github.com/user-attachments/assets/2316c34c-5edf-43ae-9a54-16bfafa88782" />
+   
+- <img width="300" height="1596" alt="Screenshot 2026-03-26 221039" src="https://github.com/user-attachments/assets/2316c34c-5edf-43ae-9a54-16bfafa88782" />
 
 3. **Detail Pengumuman:** ![Detail]
-   <img width="300" height="1596" alt="Screenshot 2026-03-26 221826" src="https://github.com/user-attachments/assets/7fbaa4ba-6b24-4820-a070-c0fe89535510" />
+   
+- <img width="300" height="1596" alt="Screenshot 2026-03-26 221826" src="https://github.com/user-attachments/assets/7fbaa4ba-6b24-4820-a070-c0fe89535510" />
 
 5. **Profil & Jadwal:** ![Profil]
-   <img width="300" height="1596" alt="Screenshot 2026-03-26 221049" src="https://github.com/user-attachments/assets/e55c3438-a4a8-482a-950c-ace48ae149ef" />
-   <img width="300" height="1596" alt="Screenshot 2026-03-26 221044" src="https://github.com/user-attachments/assets/b4e5e676-ffa0-44d2-a081-e6aa44754941" />
+   
+- <img width="300" height="1596" alt="Screenshot 2026-03-26 221049" src="https://github.com/user-attachments/assets/e55c3438-a4a8-482a-950c-ace48ae149ef" />
+- <img width="300" height="1596" alt="Screenshot 2026-03-26 221044" src="https://github.com/user-attachments/assets/b4e5e676-ffa0-44d2-a081-e6aa44754941" />
 
 
